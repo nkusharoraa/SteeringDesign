@@ -106,9 +106,6 @@ Plot key dynamics metrics to assess vehicle performance:
 Here's the Python script for the `Vehicle` class and its methods.
 
 
-Here's a professional rewrite of your text:
-
----
 
 ### Inductive Development Flow
 
@@ -186,9 +183,6 @@ For $` \theta = \theta_0 \pm 0.1^\circ `$ :
 
 To facilitate this process, store the variables from $` 0 `$ to $` \alpha_L `$ in increments of $` 0.1^\circ `$ and from $` 0 `$ to $` \beta_L `$ in decrements of $` 0.1^\circ `$.
 
----
-
-If there are any additional instructions or clarifications required, please let me know.
 
 ### Prerequisites
 
